@@ -56,7 +56,7 @@ public class RateActivity extends AppCompatActivity {
         config.putExtra("dollar_rate_key",dollarRate);
         config.putExtra("euro_rate_key",euroRate);
         config.putExtra("won_rate_key",wonRate);
-        
+
 
         Log.i(TAG, "openOne: dollarRate=" + dollarRate);
         Log.i(TAG, "openOne: euroRate=" + euroRate);
